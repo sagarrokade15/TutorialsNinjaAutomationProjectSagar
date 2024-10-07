@@ -2,7 +2,7 @@ package com.tutoninja.qa.testcases;
 
 public class Information {
 	
-	
+	///Done New cahnges
 /*1------Run POM>.XML
  * 
  * After completion of test cases and reports part We have to  run project through POM.XML for that 
@@ -37,5 +37,11 @@ public class Information {
 	...  ...................
 3	.. Run using Jenkins 9.12 video time..     
 	     
-	     */
+	     
+	
+	/*4	..GIT  and GIT HUB  10. 30 video time..     
+    s
+    */
+
+
 }

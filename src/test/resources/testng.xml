@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TutorialNinja Automation Suite">
+
+<listeners>
+<listener  class-name = "com.tutoninja.qa.listeners.MyListener" />
+</listeners>
+  <test name="TutorialNinja TestCases">
+    <classes>
+    
+     <class name="com.tutoninja.qa.testcases.RegisterTest"/>
+      <class name="com.tutoninja.qa.testcases.LoginTest"/>
+       <class name="com.tutoninja.qa.testcases.SearchTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

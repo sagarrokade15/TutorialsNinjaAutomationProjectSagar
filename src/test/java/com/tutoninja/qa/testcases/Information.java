@@ -2,7 +2,7 @@ package com.tutoninja.qa.testcases;
 
 public class Information {
 	
-	
+	///Done New cahnges
 /*1------Run POM>.XML
  * 
  * After completion of test cases and reports part We have to  run project through POM.XML for that 
